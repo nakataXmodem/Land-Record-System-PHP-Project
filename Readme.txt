@@ -1,5 +1,6 @@
 How to run the Land Record System using PHP and MySQL
 
+
 1. Download the project zip file
 
 2. Extract the file and copy landrecordsys folder
